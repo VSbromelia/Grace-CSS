@@ -1,0 +1,39 @@
+body{
+    position: relative;
+}
+
+
+p {
+    color: blueviolet;
+    background-color: deepskyblue;
+    font-family:'Times New Roman', Times, serif
+}
+
+h1 {
+    color: rgb(225, 108, 24);
+    background-color: darkviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.inverso{
+    color:#00CED1;
+    background-color: #2F4F4F;
+    text-align: right;
+}
+div{
+    width: 60%;
+    margin: auto;
+    background-color: gray;
+}
+#titulo{
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+
+footer{
+    background-color: deeppink;
+    padding: 20px;
+    text-align: center;
+}
+
